@@ -3,10 +3,9 @@
 To run 
 
 ```
-make clean
+make 
 ```
 
-then 
 
 ```
 ./server.o [PORT_NUMBER]
